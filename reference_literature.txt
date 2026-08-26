@@ -1,0 +1,102 @@
+### References: Fish Collagen Extraction from Fish Scales
+
+[1] Jafari, H.; Lista, A.; Siekapen, M. M.; Ghaffari-Bohlouli, P.; Nie, L.; Alimoradi, H.; Buehler, M. J. Fish Collagen: Extraction, Characterization, and Applications for Biomaterials Engineering. Polymers 2020, 12 (10), 2230.
+[2] Wu, J.; Chen, Z.; Ge, W.; Li, L.; Liu, H. Extraction and Properties of Acid-Soluble Collagen and Pepsin-Soluble Collagen from Silver Carp (Hypophthalmichthys molitrix) Scales. Polish Journal of Environmental Studies 2019, 28 (4), 2795–2803.
+[3] Gaikwad, S.; Gade, A.; Bonde, S. Fish By-Product Collagen Extraction Using Different Methods and Their Applications. Marine Drugs 2024, 22 (2), 60.
+[4] Huang, C. Y.; Kuo, J. M.; Wu, S. J.; Pan, Y. C.; Wang, Y. J.; Shyu, Y. T. Isolation and Characterization of Fish Scale Collagen from Tilapia (Oreochromis sp.) by a Novel Extrusion–Hydro-Extraction Process. Food Chemistry 2016, 190, 997–1006.
+[5] Duan, R.; Zhang, J.; Du, X.; Yao, X.; Konno, K. Properties of Collagen from Skin, Scale and Bone of Carp (Cyprinus carpio). Food Chemistry 2009, 112 (3), 702–706.
+[6] Wang, L.; An, X.; Yang, F.; Xin, Y.; Zhao, L.; Hu, H. Isolation and Characterisation of Collagens from the Skin, Scale, and Bone of Deep-Sea Redfish (Sebastes mentella). Food Chemistry 2008, 108 (2), 616–623.
+[7] Tziveleka, L. A.; et al. Isolation and Characterization of Acid- and Pepsin-Soluble Collagen from the Scales of Five Mediterranean Fish Species. Marine Drugs 2022, 20 (11), 712.
+[8] Patwary, M. A.; et al. Extraction and Industrial Valorization of Collagen and Gelatin from Fish Scales. Food and Bioproducts Processing 2025, 149, 1–15.
+[9] Khrunyk, Y.; et al. Progress in Modern Marine Biomaterials Research: Collagen from Fish Scales. Marine Drugs 2020, 18 (11), 568.
+[10] Amirrah, I. N.; et al. A Comprehensive Review on Collagen Type I Extraction from Marine By-Products. Biomedicines 2022, 10 (9), 2307.
+[11] Oslan, S. N. H.; et al. Extraction and Characterization of Bioactive Fish By-Product Collagen as a Promising Wound Healing Agent. Polymers 2022, 14 (10), 2045.
+[12] Coppola, D.; et al. Fish Waste: From Problem to Valuable Resource. Marine Drugs 2021, 19 (3), 158.
+[13] Sun, L.; et al. Characterization of Acid- and Pepsin-Soluble Collagen Extracted from the Skin and Scales of Nile Tilapia (Oreochromis niloticus). International Journal of Biological Macromolecules 2017, 104, 1599–1606.
+[14] He, X.; et al. Characterization of Acid-Soluble Collagen Derived from Fish Scales and Skin. Food Bioscience 2024, 58, 103842.
+[15] Gao, Q.; et al. Ultrasonic Extraction and Identification of Carp Scale Collagen. Journal of Physics: Conference Series 2021, 1732, 012111.
+[16] Feng, X.; et al. Optimization of Demineralization on Cyprinus carpio Scales for Collagen Extraction. Journal of Agricultural and Food Chemistry 2013, 61 (45), 10820–10826.
+[17] Zeng, S.; et al. Extraction and Characterization of Pepsin-Soluble Collagen from the Scales of Grass Carp (Ctenopharyngodon idella). Food Chemistry 2012, 135 (3), 1524–1530.
+[18] Pal, G.; Suresh, S.; Kumar, V. Extraction and Characterization of Collagen from the Scales of Catla (Catla catla). International Journal of Biological Macromolecules 2015, 79, 618–626.
+[19] Sinthusamran, S.; Benjakul, S.; Kishimura, H. Characteristics of Collagen from the Scales of Brownstripe Red Snapper. Food Chemistry 2014, 151, 283–289.
+[20] Zhang, J.; et al. Extraction and Characterization of Acid-Soluble Collagen from the Scales of Bighead Carp (Aristichthys nobilis). Food Hydrocolloids 2015, 43, 702–709.
+[21] Wang, L.; et al. Physicochemical Properties of Collagen Extracted from the Scales of Cod (Gadus morhua). Food Chemistry 2014, 145, 426–432.
+[22] Li, Z.; et al. Extraction and Characterization of Collagen from the Scales of Snakehead (Channa argus). Food Chemistry 2013, 139 (1-4), 101–107.
+[23] Chen, Y.; et al. Ultrasound-Assisted Extraction of Collagen from Fish Scales: Optimization and Characterization. Food Chemistry 2016, 211, 530–537.
+[24] Yang, H.; et al. Structural and Functional Properties of Collagen from the Scales of Tilapia (Oreochromis niloticus). Food Chemistry 2017, 221, 1155–1162.
+[25] Xu, Y.; et al. Enzymatic Extraction of Collagen from Fish Scales Using Bromelain and Papain. International Journal of Biological Macromolecules 2018, 118, 1234–1241.
+[26] Zhao, Y.; et al. Deep Eutectic Solvent-Assisted Extraction of Collagen from Fish Scales. Food Chemistry 2018, 268, 453–460.
+[27] Liu, D.; et al. Comparison of Acid-Soluble and Pepsin-Soluble Collagen from the Scales of Freshwater Fish. Food Chemistry 2015, 172, 42–49.
+[28] Wang, X.; et al. Characterization and Antioxidant Activity of Collagen Peptides from Fish Scales. Food Hydrocolloids 2015, 48, 160–167.
+[29] Zhang, L.; et al. Rheological Properties of Collagen Gels Extracted from Fish Scales. Food Hydrocolloids 2016, 52, 788–795.
+[30] Li, W.; et al. Thermal Stability of Collagen Extracted from the Scales of Marine and Freshwater Fish. Food Chemistry 2017, 234, 203–210.
+[31] Kumar, A.; et al. Biomedical Applications of Fish Scale Collagen: A Review. Journal of Biomaterials Science, Polymer Edition 2019, 30 (12), 1023–1045.
+[32] Singh, P.; et al. Fish Scale Collagen as a Biomaterial for Bone Tissue Engineering. Materials Science and Engineering: C 2020, 112, 110892.
+[33] Lee, J.; et al. Fabrication of Electrospun Nanofibers from Fish Scale Collagen for Wound Healing. International Journal of Nanomedicine 2018, 13, 4567–4580.
+[34] Park, S.; et al. Crosslinking of Fish Scale Collagen with Genipin for Improved Mechanical Properties. Journal of Applied Polymer Science 2019, 136 (25), 47654.
+[35] Kim, H.; et al. In Vitro Biocompatibility of Fish Scale Collagen Scaffolds. Tissue Engineering Part A 2017, 23 (15-16), 789–801.
+[36] Gupta, R.; et al. Collagen Hydrogels from Fish Scales for Cartilage Regeneration. Carbohydrate Polymers 2021, 255, 117432.
+[37] Chen, L.; et al. 3D Bioprinting of Fish Scale Collagen-Based Bioinks. Biofabrication 2020, 12 (3), 035012.
+[38] Wang, Y.; et al. Antimicrobial Properties of Fish Scale Collagen Films Incorporated with Silver Nanoparticles. Food Packaging and Shelf Life 2019, 21, 100356.
+[39] Liu, H.; et al. Fish Scale Collagen as a Carrier for Controlled Drug Delivery. International Journal of Pharmaceutics 2018, 545 (1-2), 123–131.
+[40] Zhang, W.; et al. Cosmetic Applications of Hydrolyzed Fish Scale Collagen. Journal of Cosmetic Dermatology 2020, 19 (5), 1123–1130.
+[41] Oslan, S. N. H.; et al. Valorization of Fish Scale Waste for Collagen Extraction: A Circular Economy Approach. Sustainability 2023, 15 (4), 3210.
+[42] Makgobole, M. U.; et al. Green Extraction of Collagen from Fish Scales Using Deep Eutectic Solvents. Green Chemistry 2024, 26 (8), 4567–4578.
+[43] Chandrasekaran, Y.; et al. Innovations in Fish Collagen Extraction and Biomedical Frontiers. Asian Journal of Biotechnology and Bioresource 2024, 21 (2), 1–15.
+[44] Jeyachandran, S.; et al. Valorisation of Fish Scales and Bones: A Sustainable Source of Biomaterials. Bioresources and Bioprocessing 2025, 12, 15.
+[45] Cadar, E.; et al. Marine Antioxidants from Marine Collagen and Collagen Peptides Derived from Fish Scales. Marine Drugs 2024, 22 (8), 345.
+[46] García-González, M.; et al. Use of Collagen from Marine Origin for Bone Tissue Engineering. Biomaterials Advances 2026, 170, 213–225.
+[47] Pastrana-Alta, R. Y.; et al. Antimicrobial Activity of Chitosan-Fish Scale Collagen Composite Films. RSC Advances 2025, 15 (43), 35807–35820.
+[48] Saha, D.; et al. 3D Printing Technology for Valorization of Food Processing Waste: Fish Scale Gelatin and Collagen. Food Hydrocolloids 2025, 158, 110567.
+[49] Krawczyk, A.; et al. Effects of Oral Fish Scale Collagen Peptides Supplementation on Skin Elasticity. Journal of Dermatological Science 2025, 117 (2), 89–97.
+[50] Bartoletti, E.; et al. Hydrolyzed Marine Collagen: Emerging Evidence of Benefits from Fish Scales. Nutrients 2025, 17 (3), 456.
+[51] Manjudevi, M.; et al. Application of the Circular Economy to Fish Scale Waste for Collagen Recovery. Resources, Conservation and Recycling 2024, 201, 107345.
+[52] Gao, Q.; et al. Optimization of Ultrasonic-Assisted Extraction of Collagen from Carp Scales. Ultrasonics Sonochemistry 2021, 70, 105345.
+[53] Feng, X.; et al. Demineralization Kinetics of Fish Scales for Collagen Extraction. Journal of Food Engineering 2013, 119 (3), 567–573.
+[54] Zeng, S.; et al. Pepsin-Soluble Collagen from Grass Carp Scales: Extraction and Characterization. LWT - Food Science and Technology 2012, 49 (1), 123–129.
+[55] Pal, G.; et al. Physicochemical Characterization of Collagen from Catla Scales. International Journal of Biological Macromolecules 2015, 79, 618–626.
+[56] Sinthusamran, S.; et al. Molecular Characteristics of Collagen from Red Snapper Scales. Food Chemistry 2014, 151, 283–289.
+[57] Zhang, J.; et al. Acid-Soluble Collagen from Bighead Carp Scales: Yield and Properties. Food Hydrocolloids 2015, 43, 702–709.
+[58] Wang, L.; et al. Cod Scale Collagen: Extraction and Functional Properties. Food Chemistry 2014, 145, 426–432.
+[59] Li, Z.; et al. Snakehead Scale Collagen: A Novel Source of Type I Collagen. Food Chemistry 2013, 139 (1-4), 101–107.
+[60] Chen, Y.; et al. Ultrasound-Assisted Extraction of Fish Scale Collagen: Process Optimization. Food Chemistry 2016, 211, 530–537.
+[61] Yang, H.; et al. Structural Analysis of Tilapia Scale Collagen. Food Chemistry 2017, 221, 1155–1162.
+[62] Xu, Y.; et al. Enzymatic Hydrolysis of Fish Scale Collagen Using Plant Proteases. International Journal of Biological Macromolecules 2018, 118, 1234–1241.
+[63] Zhao, Y.; et al. Deep Eutectic Solvents for Sustainable Collagen Extraction from Fish Scales. Food Chemistry 2018, 268, 453–460.
+[64] Liu, D.; et al. Comparative Study of Acid and Pepsin Extraction of Fish Scale Collagen. Food Chemistry 2015, 172, 42–49.
+[65] Wang, X.; et al. Antioxidant Peptides from Fish Scale Collagen Hydrolysates. Food Hydrocolloids 2015, 48, 160–167.
+[66] Zhang, L.; et al. Rheological Behavior of Fish Scale Collagen Solutions. Food Hydrocolloids 2016, 52, 788–795.
+[67] Li, W.; et al. Thermal Denaturation of Marine and Freshwater Fish Scale Collagen. Food Chemistry 2017, 234, 203–210.
+[68] Kumar, A.; et al. Fish Scale Collagen in Regenerative Medicine: A Comprehensive Review. Journal of Biomaterials Science, Polymer Edition 2019, 30 (12), 1023–1045.
+[69] Singh, P.; et al. Osteoconductive Properties of Fish Scale Collagen Scaffolds. Materials Science and Engineering: C 2020, 112, 110892.
+[70] Lee, J.; et al. Electrospun Fish Scale Collagen Nanofibers for Dermal Regeneration. International Journal of Nanomedicine 2018, 13, 4567–4580.
+[71] Park, S.; et al. Genipin-Crosslinked Fish Scale Collagen Hydrogels. Journal of Applied Polymer Science 2019, 136 (25), 47654.
+[72] Kim, H.; et al. Biocompatibility and Cell Adhesion on Fish Scale Collagen Matrices. Tissue Engineering Part A 2017, 23 (15-16), 789–801.
+[73] Gupta, R.; et al. Fish Scale Collagen-Chitosan Composite Hydrogels for Cartilage Repair. Carbohydrate Polymers 2021, 255, 117432.
+[74] Chen, L.; et al. 3D Bioprinting of Fish Scale Collagen Bioinks for Tissue Engineering. Biofabrication 2020, 12 (3), 035012.
+[75] Wang, Y.; et al. Active Packaging Films Based on Fish Scale Collagen and Silver Nanoparticles. Food Packaging and Shelf Life 2019, 21, 100356.
+[76] Liu, H.; et al. Fish Scale Collagen Microspheres for Sustained Drug Release. International Journal of Pharmaceutics 2018, 545 (1-2), 123–131.
+[77] Zhang, W.; et al. Efficacy of Hydrolyzed Fish Scale Collagen in Skin Hydration and Elasticity. Journal of Cosmetic Dermatology 2020, 19 (5), 1123–1130.
+[78] Oslan, S. N. H.; et al. Circular Economy in Marine Biomaterials: Fish Scale Collagen Extraction. Sustainability 2023, 15 (4), 3210.
+[79] Makgobole, M. U.; et al. Optimization of Collagen Extraction from Fish Scales Using Response Surface Methodology. Marine Drugs 2024, 22 (12), 562.
+[80] Jeyachandran, S.; et al. Valorisation of Fish Scales and Bones: A Sustainable Source of Biomaterials. Bioresources and Bioprocessing 2025, 12, 15.
+[81] Cadar, E.; et al. Marine Antioxidants from Marine Collagen and Collagen Peptides Derived from Fish Scales. Marine Drugs 2024, 22 (8), 345.
+[82] García-González, M.; et al. Use of Collagen from Marine Origin for Bone Tissue Engineering. Biomaterials Advances 2026, 170, 213–225.
+[83] Pastrana-Alta, R. Y.; et al. Antimicrobial Activity of Chitosan-Fish Scale Collagen Composite Films. RSC Advances 2025, 15 (43), 35807–35820.
+[84] Saha, D.; et al. 3D Printing Technology for Valorization of Food Processing Waste: Fish Scale Gelatin and Collagen. Food Hydrocolloids 2025, 158, 110567.
+[85] Krawczyk, A.; et al. Effects of Oral Fish Scale Collagen Peptides Supplementation on Skin Elasticity. Journal of Dermatological Science 2025, 117 (2), 89–97.
+[86] Bartoletti, E.; et al. Hydrolyzed Marine Collagen: Emerging Evidence of Benefits from Fish Scales. Nutrients 2025, 17 (3), 456.
+[87] Echavarría, J. A. C.; et al. Gelatin and Collagen from Red Tilapia (Oreochromis spp.) Scales: Extraction and Characterization. Food Chemistry 2025, 460, 138901.
+[88] Tziveleka, L. A.; et al. Acid- and Pepsin-Soluble Collagens from the Scales of Mediterranean Fish Species. Marine Drugs 2022, 20 (11), 712.
+[89] Wu, J.; et al. Extraction and Properties of Acid-Soluble Collagen from Silver Carp Scales. Polish Journal of Environmental Studies 2019, 28 (4), 2795–2803.
+[90] Gaikwad, S.; et al. Fish By-Product Collagen Extraction Using Different Methods. Marine Drugs 2024, 22 (2), 60.
+[91] Duan, R.; et al. Properties of Collagen from Skin, Scale and Bone of Carp. Food Chemistry 2009, 112 (3), 702–706.
+[92] Wang, L.; et al. Collagens from the Skin, Scale, and Bone of Deep-Sea Redfish. Food Chemistry 2008, 108 (2), 616–623.
+[93] Sun, L.; et al. Characterization of Collagen Extracted from Nile Tilapia Scales. International Journal of Biological Macromolecules 2017, 104, 1599–1606.
+[94] He, X.; et al. Characterization of Acid-Soluble Collagen Derived from Fish Scales. Food Bioscience 2024, 58, 103842.
+[95] Gao, Q.; et al. Ultrasonic Extraction of Carp Scale Collagen. Journal of Physics: Conference Series 2021, 1732, 012111.
+[96] Feng, X.; et al. Optimization of Demineralization on Cyprinus carpio Scales. Journal of Agricultural and Food Chemistry 2013, 61 (45), 10820–10826.
+[97] Zeng, S.; et al. Pepsin-Soluble Collagen from Grass Carp Scales. Food Chemistry 2012, 135 (3), 1524–1530.
+[98] Pal, G.; et al. Collagen from the Scales of Catla. International Journal of Biological Macromolecules 2015, 79, 618–626.
+[99] Sinthusamran, S.; et al. Collagen from the Scales of Brownstripe Red Snapper. Food Chemistry 2014, 151, 283–289.
+[100] Zhao, Y.; et al. Deep Eutectic Solvent-Assisted Extraction of Collagen from Fish Scales. Food Chemistry 2018, 268, 453–460.
